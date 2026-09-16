@@ -1,0 +1,6 @@
+{
+  "name": "AutoGO - Peer-to-Peer Car Rental Marketplace",
+  "description": "A modern car rental marketplace connecting vehicle owners with renters. Browse, book, and manage vehicle listings and rentals with instant conflict checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
